@@ -1,0 +1,14 @@
+use Northwind
+--select 3
+--select 'Gencay'
+--print 'Gencay'
+--select 'Gencay','yýlmaz' , 3
+--select PersonelID PeronelNo,Adi Adý,SoyAdi Soyadý from Personeller
+--select 1453 [Ýstanbulun fethi]
+--select*from [Satis Detaylari]
+--birleþtirme iþlemsi
+--select Adi+' '+SoyAdi from Personeller
+--türünü deðiiþtirme
+--select Adi+' ' + CONVERT(nvarchar,IseBaslamaTarihi) from Personeller
+--türünü deðiiþtirme
+--select Adi+' ' + cast(IseBaslamaTarihi as nvarchar) from Personeller
